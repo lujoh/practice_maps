@@ -8,17 +8,16 @@ This is a map of all the Linden trees in Buffalo, NY. I got the idea for this ma
 
 * Tools used: **ArcGIS Pro**
 
-![Overview of Linden Trees in Buffalo](maps/BuffaloLinden1.png)
-![West Seneca and South Park Linden Trees](maps/BuffaloLinden2.png)
-![Lower West Side/Allentown/Fruit Belt Linden Trees](maps/BuffaloLinden3.png)
-![North Buffalo Linden Trees](maps/BuffaloLinden4.png)
-![University Heights/Central Park Linden Trees](maps/BuffaloLinden5.png)
-![East Buffalo Linden Trees](maps/BuffaloLinden6.jpg)
+[View the Buffalo Linden Project Images](BuffaloLinden.md)
+
+[Download the Buffalo Linden Map PDF](maps/BuffaloLindenTrees.pdf)
 
 ## 1. NY Election Results
 
-I made this map as a part of my Intro to Geospatial Technologies class at the University at Albany. We were supposed to map a feature of our choice from a dataset with election results in New York state in the 2012 and the 2020 election. I wanted to practice using formulas to calculate features, so I calculated how much the percentage of Democratic votes changed between the two elections. I found that in most counties in New York the percentage decreased from 2012 to 2020.
+I made this map as a part of my Intro to Geospatial Technologies class at the University at Albany.
 
 * Tools used: **QGIS**
 
-![Change in percentage of Democratic votes in New York State between 2012 and 2020](maps/NYElectionResults.png)
+[View the NY Election Result Image](NYElectionResults.md)
+
+[Download the NY Election Result PDF](maps/NYElectionResults.pdf)
