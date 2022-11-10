@@ -2,6 +2,16 @@
 
 This is a repository of maps and spatial projects by Lucia Johnson to keep track of my progress in map making.
 
+## 3. New York Unemployment
+
+I made this map at my place of employment. It was made as a presentation to a client in order to see if they would be interested in having more maps made to help further their goals.
+
+* Tools used: **QGIS**
+
+[View the New York Unemployment Map Images](NYUnemployment.md)
+
+[Download the New York Unemployment Map PDF](maps/NewYorkEmployment.pdf)
+
 ## 2. Buffalo Linden Trees
 
 This is a map of all the Linden trees in Buffalo, NY. I got the idea for this map after watching [this video from the Black Forager](https://fb.watch/fexb8qlX45/) about how you can make something chocolate-like from the seed pods of the Linden tree. Tea made from Linden flowers is also one of my favorite teas. I wanted to make a map of areas where I could forage from Linden trees, ideally away from any major sources of pollution. It turns out that there are a LOT of Linden trees in Buffalo.
