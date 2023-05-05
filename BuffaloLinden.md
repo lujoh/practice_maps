@@ -12,3 +12,5 @@ This is a map of all the Linden trees in Buffalo, NY. I got the idea for this ma
 ![East Buffalo Linden Trees](maps/BuffaloLinden6.jpg)
 
 The data was found on the [Buffalo Open Data Portal](https://data.buffalony.gov/). The tree data came as a CSV file, and I also used a dataset on zoning and one with highways and roads, both of which came as Shapefiles. I used the Buffer tool to create the "Pollution Zones".
+
+[Download the Buffalo Linden Map PDF](maps/BuffaloLindenTrees.pdf)
