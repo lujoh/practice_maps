@@ -2,6 +2,16 @@
 
 This is a repository of maps and spatial projects by Lucia Johnson to keep track of my progress in map making.
 
+## 4. B&B Complex Fires Vegetation Regrowth
+
+This was the final project for my Remote Sensing II class at the University at Albany. The project analyzed the burn severity and the vegetation regrowth post-fire of the B&B complex fires in Oregon in 2003.
+
+* Tools used: **ArcMap**, **Google Earth Engine**
+
+[View the B&B Complex Fires Summary and Primary Maps](BBComplexFires.md)
+
+[Download the Full B&B Complex Fires Paper](maps/B%26B_Complex_Fires.pdf)
+
 ## 3. New York Unemployment
 
 I made this map at my place of employment. It was made as a presentation to a client in order to see if they would be interested in having more maps made to help further their goals.
