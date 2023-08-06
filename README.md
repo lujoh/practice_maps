@@ -12,6 +12,8 @@ This is a web mapping application that displays owl observations in Bavaria. I a
 
 [Visit the Owls of Bavaria Live Website](https://owls-of-bavaria.pages.dev/)
 
+[View the Owls of Bavaria GitHub repository](https://github.com/lujoh/owls_of_bavaria)
+
 ## 4. B&B Complex Fires Vegetation Regrowth
 
 This was the final project for my Remote Sensing II class at the University at Albany. The project analyzed the burn severity and the vegetation regrowth post-fire of the B&B complex fires in Oregon in 2003.
@@ -28,7 +30,7 @@ I made this map at my place of employment. It was made as a presentation to a cl
 
 * Tools used: **QGIS**
 
-[View the New York Unemployment Map Images](NYUnemployment.md)
+[View the New York Unemployment Map Images and Summary](NYUnemployment.md)
 
 [Download the New York Unemployment Map PDF](maps/NewYorkEmployment.pdf)
 
@@ -38,7 +40,7 @@ This is a map of all the Linden trees in Buffalo, NY. I got the idea for this ma
 
 * Tools used: **ArcGIS Pro**
 
-[View the Buffalo Linden Project Images](BuffaloLinden.md)
+[View the Buffalo Linden Project Images and Summary](BuffaloLinden.md)
 
 [Download the Buffalo Linden Map PDF](maps/BuffaloLindenTrees.pdf)
 
@@ -48,6 +50,6 @@ I made this map as a part of my Intro to Geospatial Technologies class at the Un
 
 * Tools used: **QGIS**
 
-[View the NY Election Result Image](NYElectionResults.md)
+[View the NY Election Result Image and Summary](NYElectionResults.md)
 
 [Download the NY Election Result PDF](maps/NYElectionResults.pdf)

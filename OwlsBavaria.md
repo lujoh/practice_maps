@@ -2,7 +2,9 @@
 
 This is a web mapping application that displays owl observations in Bavaria. I am building it in honor of my mother who is a big fan of birding, and especially owls.
 
-[Go to the Owls of Bavaria live website](https://owls-of-bavaria.pages.dev).
+[Go to the Owls of Bavaria live website](https://owls-of-bavaria.pages.dev)
+
+[Go to the Owls of Bavaria GitHub repository](https://github.com/lujoh/owls_of_bavaria)
 
 * APIs used: **ArcGIS Maps SDK for JavaScript**, **iNaturalist REST API**
 * Libraries & Languages used: **React**, **Redux**, **JavaScript**, **HTML**, **CSS**
