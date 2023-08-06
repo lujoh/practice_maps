@@ -2,6 +2,16 @@
 
 This is a repository of maps and spatial projects by Lucia Johnson to keep track of my progress in map making.
 
+## 5. Owls of Bavaria
+
+This is a web mapping application that displays owl observations in Bavaria. I am building it in honor of my mother who is a big fan of birding, and especially owls.
+
+* Tools used: **ArcGIS Maps SDK for JavaScript**, **iNaturalist REST API**, **React**, **Redux**
+
+[View the Owls of Bavaria Summary and Screenshots](OwlsBavaria.md)
+
+[Visit the Owls of Bavaria Live Website](https://owls-of-bavaria.pages.dev/)
+
 ## 4. B&B Complex Fires Vegetation Regrowth
 
 This was the final project for my Remote Sensing II class at the University at Albany. The project analyzed the burn severity and the vegetation regrowth post-fire of the B&B complex fires in Oregon in 2003.
